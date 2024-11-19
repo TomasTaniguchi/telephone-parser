@@ -1,0 +1,10 @@
+{
+  "name": "cuniaPhoneNode",
+  "packageManager": "yarn@3.6.4",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "nodejs-polars": "^0.16.0",
+    "sqlite3": "^5.1.7"
+  }
+}
